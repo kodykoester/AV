@@ -118,7 +118,7 @@ To see an example project on how to deploy your bot, please see my own configura
 + **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-+ [Arduino Uno]([https://praw.readthedocs.io/en/latest/](https://store.arduino.cc/products/arduino-uno-rev3/)) - Arduino Uno Rev3
++ [Arduino Uno]((https://store.arduino.cc/products/arduino-uno-rev3/)) - Arduino Uno Rev3
 + [Heroku](https://www.heroku.com/) - SaaS hosting platform
 
 ## ✍️ Authors <a name = "authors"></a>
