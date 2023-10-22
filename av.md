@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/kodykoester/AV/blob/main/IMG_5782.jpg" alt="Bot logo"></a>
+ <img width=400px height=400px src="https://github.com/kodykoester/AV/blob/main/IMG_5782.jpg" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Meet AV</h3>
