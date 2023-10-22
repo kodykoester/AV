@@ -35,10 +35,13 @@
 + [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your bot.
+Our goal is to create a cost-effective, educational, and fun autonomous vehicle that can navigate through a predefined environment using minimal resources. This project is ideal for learning the fundamentals of robotics, electronics, and programming.
+
+The vehicle is built using K'nex for the structural framework and Arduino Uno as the brain to control its movements. IR sensors are utilized for basic obstacle detection, and we are actively working on expanding its capabilities.
+
 
 ## 🎥 Demo / Working <a name = "demo"></a>
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+/*![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)*/
 
 ## 💭 How it works <a name = "working"></a>
 
