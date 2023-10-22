@@ -119,9 +119,10 @@ To see an example project on how to deploy your bot, please see my own configura
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 + [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3/) - Arduino Uno Rev3
-+ [Motor Shield](https://store.arduino.cc/products/arduino-motor-shield-rev3) - Motor Shield 
++ [Motor Shield](https://store.arduino.cc/products/arduino-motor-shield-rev3) - Motor Shield
++ [IR Sensor](https://www.amazon.com/HiLetgo-Infrared-Avoidance-Reflective-Photoelectric/dp/B07W97H2WS/ref=sr_1_3?crid=2M1U7RPV1RVJH&keywords=ir+sensors&qid=1697999804&sprefix=ir+sensors%2Caps%2C150&sr=8-3) - IR Sensors
 + 7.2v LiPo Battery
-+ Childhood K'nex
++ K'nex frame & motor
 
 ## ✍️ Authors <a name = "authors"></a>
 + [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
