@@ -17,8 +17,12 @@
 
 ---
 
-<p align="center">Welcome to the GitHub repository for an Autonomous Vehicle name..."Insert name here, Kody.! This project is designed to demonstrate my skills and expertise in the field of embedded hardware and software engineering to potential employers. I've developed this project using an Arduino Uno, Arduino Nano Sense, IR sensors, a 7.2V battery, and K'nex construction, and I am actively working on expanding its capabilities.
+<p align="center">Welcome to the GitHub repository for an Autonomous Vehicle name..."Insert name here, Kody.! This project combines the power of Arduino, K'nex, and a few sensors to create a self-navigating vehicle. This project is designed to demonstrate my skills and love for the field of embedded hardware and software engineering to potential employers. 
+
+<be>
+I've developed this project using an Arduino Uno, Arduino Nano Sense, IR sensors, a 7.2V battery, and K'nex construction, and I am actively working on expanding its capabilities.
     <br> 
+If you've ever wondered what type of degree
 </p>
 
 ## 📝 Table of Contents
@@ -130,8 +134,10 @@ To see an example project on how to deploy your bot, please see my own configura
 + [IR Sensor](https://www.amazon.com/HiLetgo-Infrared-Avoidance-Reflective-Photoelectric/dp/B07W97H2WS/ref=sr_1_3?crid=2M1U7RPV1RVJH&keywords=ir+sensors&qid=1697999804&sprefix=ir+sensors%2Caps%2C150&sr=8-3) - IR Sensors
 + 7.2v LiPo Battery
 + K'nex frame & motor
++ High-Quality Code: Despite being a one-person effort, the code is organized, structured, well-documented, and highly maintainable, suitable for scaling and manufacturing applications.
 
-## Future Enhancements / Working <a name = "future_enhancements"></a>
+
+## Future Enhancements
 In the near future, I plan to enhance this project with the following features:
 
 Sonar Mapping: Incorporate sonar sensors to enable advanced room mapping capabilities.
