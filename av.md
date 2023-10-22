@@ -131,7 +131,7 @@ To see an example project on how to deploy your bot, please see my own configura
 + 7.2v LiPo Battery
 + K'nex frame & motor
 
-## Future Enhancements
+## Future Enhancements / Working <a name = "future_enhancements"></a>
 In the near future, I plan to enhance this project with the following features:
 
 Sonar Mapping: Incorporate sonar sensors to enable advanced room mapping capabilities.
