@@ -17,7 +17,8 @@
 
 ---
 
-<p align="center">Welcome to the GitHub repository for an Autonomous Vehicle name..."Insert name here, Kody.! This project combines the power of Arduino, K'nex, and a few sensors to create a self-navigating vehicle. This project is designed to demonstrate my skills and love for the field of embedded hardware and software engineering to potential employers. 
+<p align="center">Welcome to the GitHub repository for an Autonomous Vehicle developed by Kody Koester!<br>
+This project is designed to demonstrate my skills and love for the field of embedded hardware and software engineering to potential employers. 
 
 <be>
 I've developed this project using an Arduino Uno, Arduino Nano Sense, IR sensors, a 7.2V battery, and K'nex construction, and I am actively working on expanding its capabilities.
