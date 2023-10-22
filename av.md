@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center">These are the beginning stages of an autonomous vehicle. Its current purpose would around scoping out Martian Lava tunnels https://en.wikipedia.org/wiki/Martian_lava_tube.
+<p align="center">Welcome to the GitHub repository for an Autonomous Vehicle name..."Insert name here, Kody.! This project is designed to demonstrate my skills and expertise in the field of embedded hardware and software engineering to potential employers. I've developed this project using an Arduino Uno, Arduino Nano Sense, IR sensors, a 7.2V battery, and K'nex construction, and I am actively working on expanding its capabilities.
     <br> 
 </p>
 
@@ -29,19 +29,23 @@
 + [Getting Started](#getting_started)
 + [Deploying your own bot](#deployment)
 + [Built Using](#built_using)
-+ [TODO](../TODO.md)
++ [Future Enhancements](#Future Enhancements)
 + [Contributing](../CONTRIBUTING.md)
 + [Authors](#authors)
 + [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Our goal is to create a cost-effective, educational, and fun autonomous vehicle that can navigate through a predefined environment using minimal resources. This project is ideal for learning the fundamentals of robotics, electronics, and programming.
+This autonomous vehicle project is a showcase of my capabilities in designing, developing, and deploying embedded systems. 
+
+
+Despite being a solo endeavor, I have created organized, structured, well-documented, maintainable, and reusable code suitable for high-volume manufacturing applications.
+
 
 The vehicle is built using K'nex for the structural framework and Arduino Uno as the brain to control its movements. IR sensors are utilized for basic obstacle detection, and we are actively working on expanding its capabilities.
 
 
 ## 🎥 Demo / Working <a name = "demo"></a>
-/*![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)*/
+![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
 
 ## 💭 How it works <a name = "working"></a>
 
@@ -126,6 +130,15 @@ To see an example project on how to deploy your bot, please see my own configura
 + [IR Sensor](https://www.amazon.com/HiLetgo-Infrared-Avoidance-Reflective-Photoelectric/dp/B07W97H2WS/ref=sr_1_3?crid=2M1U7RPV1RVJH&keywords=ir+sensors&qid=1697999804&sprefix=ir+sensors%2Caps%2C150&sr=8-3) - IR Sensors
 + 7.2v LiPo Battery
 + K'nex frame & motor
+
+## Future Enhancements
+In the near future, I plan to enhance this project with the following features:
+
+Sonar Mapping: Incorporate sonar sensors to enable advanced room mapping capabilities.
+
+Obstacle Avoidance: Further improve obstacle avoidance capabilities with advanced sensors and algorithms.
+
+Machine Learning: Explore machine learning techniques to enhance decision-making and autonomy.
 
 ## ✍️ Authors <a name = "authors"></a>
 + [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
