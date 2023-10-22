@@ -29,7 +29,7 @@ This project is designed to demonstrate my skills and passion for the field of e
 + [Getting Started](#getting_started)
 + [Deploying your own bot](#deployment)
 + [Built Using](#built_using)
-+ [Future Enhancements](#Future Enhancements)
++ [Future Enhancements](#Future_Enhancements)
 + [Contributing](../CONTRIBUTING.md)
 + [Authors](#authors)
 + [Acknowledgments](#acknowledgement)
@@ -38,10 +38,10 @@ This project is designed to demonstrate my skills and passion for the field of e
 This autonomous vehicle project is a showcase of my capabilities in designing, developing, and deploying embedded systems. 
 
 
-Despite being a solo endeavor, I have created organized, structured, well-documented, maintainable, and reusable code suitable for high-volume manufacturing applications.
+Despite being a solo endeavor, I've created organized, structured, well-documented, maintainable, and reusable code suitable for high-volume manufacturing applications.
 
 
-The vehicle is built using K'nex for the structural framework and Arduino Uno as the brain to control its movements. IR sensors are utilized for basic obstacle detection, and we are actively working on expanding its capabilities.
+The vehicle is built using K'nex for the structural framework and Arduino Uno as the brain to control its movements. IR sensors are utilized for basic obstacle detection, and I am actively working on expanding its capabilities.
 
 
 ## 🎥 Demo / Working <a name = "demo"></a>
