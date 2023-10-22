@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> 🤖 Few lines describing what your bot does.
+<p align="center"> If you've ever wondered what you get when you mix K'nex, embedded hardware, and a space enthusiaest you get this...the begining stages of an autonomus vehicle. Its current purpose would be something like scoping out Martian Lava tunnels https://en.wikipedia.org/wiki/Martian_lava_tube.
     <br> 
 </p>
 
