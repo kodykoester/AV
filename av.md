@@ -119,7 +119,9 @@ To see an example project on how to deploy your bot, please see my own configura
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 + [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3/) - Arduino Uno Rev3
-+ [Heroku](https://www.heroku.com/) - SaaS hosting platform
++ [Motor Shield](https://store.arduino.cc/products/arduino-motor-shield-rev3) - Motor Shield 
++ 7.2v LiPo Battery
++ Childhood K'nex
 
 ## ✍️ Authors <a name = "authors"></a>
 + [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
