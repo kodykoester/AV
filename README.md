@@ -15,8 +15,7 @@
 
 ---
 
-<p align="center">Welcome to the GitHub repository for an Autonomous Vehicle developed by Kody Koester!<br>
-This project is designed to demonstrate my skills and passion for the field of embedded hardware and software engineering to potential employers.
+<p align="center">This autonomous vehicle project is a showcase of my capabilities in designing, developing, and deploying embedded systems.
 </p>
 
 ## 📝 Table of Contents
@@ -33,8 +32,6 @@ This project is designed to demonstrate my skills and passion for the field of e
 + [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-This autonomous vehicle project is a showcase of my capabilities in designing, developing, and deploying embedded systems. 
-
 
 Despite being a solo endeavor, I've created organized, structured, well-documented, maintainable, and reusable code suitable for high-volume manufacturing applications.
 
